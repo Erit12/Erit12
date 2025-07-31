@@ -58,8 +58,8 @@
   
 </p>
 
-<br>
-<br>
+<br />
+<br />
 
 
 <h2> 📈 My Github stats </h2>
@@ -75,22 +75,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Erit12" alt="shwetangStats" />  
   <br />
 </p>
+
+<br />
+<h2> Proyecto Principales </h2>
+<h3>Proyecto de Landing Page </h3> 
+<a href="https://github.com/Erit12/landingpage.git" target="_blank"> Link al repositorio </a>
+<p>Descripcion 1</p>
+<h3>Proyecto de conexion a una Api - Biblioteca Musical </h3>
+<a href="https://github.com/Erit12/fetch-music.git" target="_blank"> Biblioteca Musical </a>
+<p>Descripcion 2</p>
+
+
+
 <!--
 **Erit12/Erit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-<br>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
