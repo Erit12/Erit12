@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<br>
+<br>
+<img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<br>
+
+https://github-readme-stats.vercel.app/api?username=Erit12
 <!--
 **Erit12/Erit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
