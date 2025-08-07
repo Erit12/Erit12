@@ -77,15 +77,25 @@
 </p>
 
 <br />
-<h2> Proyecto Principales </h2>
-<h3>Proyecto de Landing Page </h3> 
-<a href="https://github.com/Erit12/landingpage.git" target="_blank"> Link al repositorio </a>
-<p>Descripcion 1</p>
-<h3>Proyecto de conexion a una Api - Biblioteca Musical </h3>
-<a href="https://github.com/Erit12/fetch-music.git" target="_blank"> Biblioteca Musical </a>
-<p>Descripcion 2</p>
+<h2> Proyectos Principales </h2>
 
+<a href="https://erit12.github.io/landingpage/" target="_blank"> Landing Page - Super Producto </a>
+<p>Este proyecto se baso en la landinga page para promocionar un prestamo en linea, cuenta con una interfaz atractiva y mensajes que captan la atencion del usuario</p>
 
+<a href="https://erit12.github.io/fetch-music/" target="_blank"> Biblioteca Musical </a>
+<p>Este proyecto se basa en conectarse a una api, buscando el nombre de un artista y desplegando los todos sus albunes musicales, y las canciones de cada uno de ellos; para posterior seleccionar nuestros favoritos y agregarlos a nuestra playlist </p>
+
+<a href="https://erit12.github.io/clima-app/" target="_blank"> Clima App </a>
+<p>Este proyecto se basa en conectarnos a una api, mostrando las caracteristicas del clima de la ciudad que seleccionamos, y asi poder resguardarlas utilizando LOCALSTORAGE</p>
+
+<a href="https://erit12.github.io/caras-typescript/" target="_blank"> Revista Caras </a>
+<p>Este proyecto, se realizo para hacer un newsletter e invitar a los usuarios a suscribirse a la revista con el llenado de un formulario, se utilizo React y Typescript.</p>
+
+<a href="https://github.com/Erit12/fetch-music.git" target="_blank"> Chat Boot </a>
+<p>Este proyecto se elaboro con html, css y javascript, es un proyecto simple de 3 indicaciones, sin embargo ayudo mucho a enterder la funcionalidad de los boots hoy en dia.</p>
+
+<a href="https://erit12.github.io/coca/" target="_blank"> Landing Page - Refrescos </a>
+<p>Se elaboro esta landing page, para dar promocion a una marca de refrescos en particular, realizandola de manera que fuera atractiva al usuario y poder enganchar su atencion en la compra de productos de la marca, este proyecto se elaboro con REACT y sus estilos con  Styled-Components</p>
 
 <!--
 **Erit12/Erit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
